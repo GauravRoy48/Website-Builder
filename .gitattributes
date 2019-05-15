@@ -1,2 +1,2 @@
-WebsiteProject/* linguist-vendored
-"Website Building/main.py" linguist-vendored=false
+"Website Building/"* linguist-vendored
+main.py linguist-vendored=false
